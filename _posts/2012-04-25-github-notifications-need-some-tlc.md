@@ -7,6 +7,10 @@ redirects:
  - /post/21832824801/github-notifications-need-some-tlc
 ---
 
+<p class='message'>
+Update -- 6 Aug 2012 -- <a href='https://github.com/blog/1204-notifications-stars'>Huzzah!</a>
+</p>
+
 I love GitHub. A lot. I love it almost as much as I love complaining about things (foreshadowing!). It is the best thing to happen to the development workflow since distributed version control burst forth, fully formed, from Linus Torvalds's skull atop Mount Olympus[^dvcs].
 
 But like most things we love, GitHub is not without its imperfections. Until recently, I only used it for personal and open source projects, so its email notification system worked logically. Notifications were sent to my personal email address, as I would expect, and I could use the GH-added mail headers to easily filter and organize messages by project.
