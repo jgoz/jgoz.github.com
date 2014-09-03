@@ -1,17 +1,13 @@
 ---
 title: Failing with git filter-branch
-layout: default
-category: Code
-tags: [git, fail]
-redirects:
+layout: post
+redirect_from:
  - /post/14489251688/failing-with-git-filter-branch
 ---
 
 As tempting as it might be to, say, travel back in time to kill Hitler, the unforeseen consequences could be disastrous. The possibility of a [Flanders-ruled dystopia][simpsons] or [becoming one's own grandpa][futurama] should be enough of a deterrent for most would-be time travellers.
 
 But last week, flipping caution an undeserved bird, I used `git filter-branch` in an attempt to not only kill Hitler, but _erase him from history completely_. Thus ends the Hitler metaphor and begins a tale of woe.
-
-<!-- end_preview -->
 
 After reading [Cleaning Up Your Git Repository for NuGet 1.6][article], my OCD was tingling at the thought of erasing some never-used binaries from one of our GitHub repos that already uses NuGet. Completely out-of-character, I blindly copy-paste-executed commands from the article to my terminal, did a `git push origin master --force` and saw that it succeeded with no errors. Great! I re-cloned the repo, just to make sure, and everything seemed fine and dandy.
 

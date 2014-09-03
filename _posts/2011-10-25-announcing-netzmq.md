@@ -1,9 +1,7 @@
 ---
 title: Announcing netzmq
-layout: default
-category: Code
-tags: [netzmq, zeromq]
-redirects:
+layout: post
+redirect_from:
  - /post/14298996994/announcing-netzmq
 ---
 
@@ -12,8 +10,6 @@ Whether or not it was necessary, the world now has another set of .NET bindings 
 [netzmq][netzmq-repo], a project that I've been working on for the past two months, is ready for alpha testing. It has not been hardened for production use, but that's what I plan to do for the next two months (or so).
 
 If you're feeling brave, you can reference the [NuGet package][netzmq-nuget] or clone the [repository][netzmq-repo].
-
-<!-- end_preview -->
 
 ## Doesn't this already exist?
 

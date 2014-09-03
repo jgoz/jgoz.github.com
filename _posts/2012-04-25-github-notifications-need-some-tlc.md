@@ -1,9 +1,7 @@
 ---
 title: GitHub Notifications Need Some TLC
-layout: default
-category: Code
-tags: [git, rant]
-redirects:
+layout: post
+redirect_from:
  - /post/21832824801/github-notifications-need-some-tlc
 ---
 
@@ -18,8 +16,6 @@ But like most things we love, GitHub is not without its imperfections. Until rec
 Now that my company uses GitHub, however, the notification system has become a weak link. The problem is that all notifications for my company-related repos are still sent to my personal email address. As far as I know, there is no way to change that.
 
 Since I'm a good little worker bee and I try not to hang out on Gmail all day, I had to set up forwarding filters for all work-related notifications so that they (correctly) get sent to my work email. This is not ideal.
-
-<!-- end_preview -->
 
 **Suggestion #1: Allow per-organization email addresses for notifications.**
 

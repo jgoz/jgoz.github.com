@@ -1,9 +1,7 @@
 ---
 title: New clrzmq Maintainer
-layout: default
-category: Code
-tags: [clrzmq, netzmq, zeromq]
-redirects:
+layout: post
+redirect_from:
  - /post/14299607562/new-clrzmq-maintainer
 ---
 
